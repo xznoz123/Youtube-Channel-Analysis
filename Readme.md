@@ -39,17 +39,17 @@ To run this project, you will need to add the following python module installati
 ![image](https://raw.githubusercontent.com/arpitya/Youtube-Channel-Analysis/main/ScreenShot/newplot.png)
 
 ## 2. Video views and subscribers by categories
-![image](https://raw.githubusercontent.com/arpitya/Youtube-Channel-Analysis/main/ScreenShot/newplot2.png))
+![image](https://raw.githubusercontent.com/arpitya/Youtube-Channel-Analysis/main/ScreenShot/newplot2.png)
 ## 3. Top 10 Music Youtube Channels with The Most Video Count
-![image](https://raw.githubusercontent.com/arpitya/Youtube-Channel-Analysis/main/ScreenShot/output3.png))
+![image](https://raw.githubusercontent.com/arpitya/Youtube-Channel-Analysis/main/ScreenShot/output3.png)
 ## 4. Top 10 Education Youtube Channels with The Most Video Views
-![image](https://raw.githubusercontent.com/arpitya/Youtube-Channel-Analysis/main/ScreenShot/output4.png))
+![image](https://raw.githubusercontent.com/arpitya/Youtube-Channel-Analysis/main/ScreenShot/output4.png)
 ## 5. Trends in youtube channel created each year
 ![image](https://raw.githubusercontent.com/arpitya/Youtube-Channel-Analysis/main/ScreenShot/output5.png)
 ## 6. Corelation between variables
-![image](https://raw.githubusercontent.com/arpitya/Youtube-Channel-Analysis/main/ScreenShot/output6.png))
-![image](https://raw.githubusercontent.com/arpitya/Youtube-Channel-Analysis/main/ScreenShot/output7.png))
-![image](https://raw.githubusercontent.com/arpitya/Youtube-Channel-Analysis/main/ScreenShot/output8.png))
+![image](https://raw.githubusercontent.com/arpitya/Youtube-Channel-Analysis/main/ScreenShot/output6.png)
+![image](https://raw.githubusercontent.com/arpitya/Youtube-Channel-Analysis/main/ScreenShot/output7.png)
+![image](https://raw.githubusercontent.com/arpitya/Youtube-Channel-Analysis/main/ScreenShot/output8.png)
 ## 7. The heat maps explains the corelation
 ![image](https://raw.githubusercontent.com/arpitya/Youtube-Channel-Analysis/main/ScreenShot/output9.png)
 
@@ -58,8 +58,7 @@ To run this project, you will need to add the following python module installati
 * [SRS](SRS.pdf)
 
 ## Links
-![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arpitya-singh-239457215/)
-
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arpitya-singh-239457215/)
 
 ## Authors
 
