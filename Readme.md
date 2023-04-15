@@ -31,34 +31,34 @@ To run this project, you will need to add the following python module installati
 - Data Processing
 - Data Visualization
 - Data Analytics
-- 
+
 ## Screenshots
 
 ## 1. Percentage of youtube channel by categories
 
-![image]([ScreenShot\newplot.png](https://github.com/arpitya/Youtube-Channel-Analysis/blob/main/ScreenShot/newplot.png))
+![image](https://raw.githubusercontent.com/arpitya/Youtube-Channel-Analysis/main/ScreenShot/newplot.png)
 
 ## 2. Video views and subscribers by categories
-![image](ScreenShot\newplot2.png)
+![image](https://raw.githubusercontent.com/arpitya/Youtube-Channel-Analysis/main/ScreenShot/newplot2.png))
 ## 3. Top 10 Music Youtube Channels with The Most Video Count
-![image](ScreenShot\output3.png)
+![image](https://raw.githubusercontent.com/arpitya/Youtube-Channel-Analysis/main/ScreenShot/output3.png))
 ## 4. Top 10 Education Youtube Channels with The Most Video Views
-![image](ScreenShot\output4.png)
+![image](https://raw.githubusercontent.com/arpitya/Youtube-Channel-Analysis/main/ScreenShot/output4.png))
 ## 5. Trends in youtube channel created each year
-![image](ScreenShot\output5.png)
+![image](https://raw.githubusercontent.com/arpitya/Youtube-Channel-Analysis/main/ScreenShot/output5.png)
 ## 6. Corelation between variables
-![image](ScreenShot\output6.png)
-![image](ScreenShot\output7.png)
-![image](ScreenShot\output8.png)
+![image](https://raw.githubusercontent.com/arpitya/Youtube-Channel-Analysis/main/ScreenShot/output6.png))
+![image](https://raw.githubusercontent.com/arpitya/Youtube-Channel-Analysis/main/ScreenShot/output7.png))
+![image](https://raw.githubusercontent.com/arpitya/Youtube-Channel-Analysis/main/ScreenShot/output8.png))
 ## 7. The heat maps explains the corelation
-![image](ScreenShot\output9.png)
+![image](https://raw.githubusercontent.com/arpitya/Youtube-Channel-Analysis/main/ScreenShot/output9.png)
 
 ## Documentation
 
 * [SRS](SRS.pdf)
 
-## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arpitya-singh-239457215/)
+## Links
+![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arpitya-singh-239457215/)
 
 
 ## Authors
