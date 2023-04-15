@@ -1,5 +1,5 @@
 
-# 🔗 Youtube Channel Analysis
+# Youtube Channel Analysis
 
 Hey, so this code is all about analyzing the top subscribed Youtube channels dataset, which has information about the most subscribed Youtube channels in the world. This dataset is used to gain insights into the characteristics of the channels and their categories.
 
@@ -13,7 +13,7 @@ The code also analyzes the top 10 music channels with the most video count and t
 
 Overall, the code provides insights into the characteristics of the top subscribed Youtube channels, their categories, and their video count and views. It also shows how to perform data processing and visualization using pandas, numpy, seaborn, and plotly libraries.
 
-## 🔗 Environment Variables
+## Environment Variables
 To run this project, you will need to add the following python module installation and Visual Studio Code extension
 ### Installation Dependencies
 - ```pip install numpy```
@@ -31,11 +31,12 @@ To run this project, you will need to add the following python module installati
 - Data Processing
 - Data Visualization
 - Data Analytics
-## 🔗 Screenshots
+- 
+## Screenshots
 
 ## 1. Percentage of youtube channel by categories
 
-![image](ScreenShot\newplot.png)
+![image]([ScreenShot\newplot.png](https://github.com/arpitya/Youtube-Channel-Analysis/blob/main/ScreenShot/newplot.png))
 
 ## 2. Video views and subscribers by categories
 ![image](ScreenShot\newplot2.png)
