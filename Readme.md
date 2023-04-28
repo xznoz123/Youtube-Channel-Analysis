@@ -53,7 +53,7 @@ To run this project, you will need to add the following python module installati
 ## 7. The heat maps explains the corelation
 ![image](https://raw.githubusercontent.com/arpitya/Youtube-Channel-Analysis/main/ScreenShot/output9.png)
 
-#Power Bi ![image](https://raw.githubusercontent.com/marclelijveld/Power-BI-Icons/main/PNG/Desktop.png)
+# Power Bi <a href="PNG/Desktop.png"><img src="https://raw.githubusercontent.com/marclelijveld/Power-BI-Icons/main/PNG/Desktop.png" height="25"/></a>
 
 ## Dashboard Screenshot
 ![image](https://raw.githubusercontent.com/arpitya/Youtube-Channel-Analysis/main/ScreenShot/youtube%20analytics.jpeg)
