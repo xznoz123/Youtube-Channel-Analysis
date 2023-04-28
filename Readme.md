@@ -54,6 +54,10 @@ To run this project, you will need to add the following python module installati
 ![image](https://raw.githubusercontent.com/arpitya/Youtube-Channel-Analysis/main/ScreenShot/output9.png)
 
 # Power BI <a href="PNG/Desktop.png"><img src="https://raw.githubusercontent.com/marclelijveld/Power-BI-Icons/main/PNG/Desktop.png" height="25"/></a>
+- Created interactive dashboard to track and analyze Youtube Data.
+- Used complex parameters to drill down in worksheet and customization using filters and slicers
+- Created connections, join new tables, calculations to manipulate data and enable user driven parameters for visualizations
+- Used different types of customized visualization (bar chart, pie chart, donut chart, clustered bar chart, map, slicers, etc)
 
 ## Dashboard Screenshot
 ![image](https://raw.githubusercontent.com/arpitya/Youtube-Channel-Analysis/main/ScreenShot/youtube%20analytics.jpeg)
