@@ -1,17 +1,10 @@
 
 # Youtube Channel Analysis
 
-Hey, so this code is all about analyzing the top subscribed Youtube channels dataset, which has information about the most subscribed Youtube channels in the world. This dataset is used to gain insights into the characteristics of the channels and their categories.
+The code analyzes a dataset of the top subscribed YouTube channels, exploring their categories, subscribers, video views, and video counts. It uses visualization libraries such as Matplotlib, Seaborn, and Plotly Express to create graphs and charts that depict the data in various ways, including a pie chart of the percentage of channels by category, a scatter plot of subscribers and video views, a bar plot of the top 10 channels in the music and education categories by video count and video views, respectively, and a heatmap of the correlation between the different variables. The code also includes a point plot of the trend in YouTube channel creation by year. Overall, the code provides insights into the characteristics of top YouTube channels and how they vary by category.
 
-To do this, the code first imports some necessary libraries such as pandas, numpy, and visualization libraries like seaborn, plotly, and matplotlib. Then it reads the dataset from a CSV file and shows the first five rows of the dataset.
+The dashboard you created on Power BI analyzes data on the top 1000 most subscribed YouTube channels. Using visualizations, you explored the categories of the channels, the relationship between subscribers, video views, and video count, and the top channels in the music and education categories.The dashboard provides valuable insights into the world of YouTube channels and their popularity across different categories. These insights can be used to inform content creation and marketing strategies for individuals and organizations looking to establish a strong presence on YouTube.
 
-After that, the code removes unnecessary columns and checks for missing values. It also checks the unique values of the Category column and removes rows with an unknown category. The final dataset is then described, showing various statistical information.
-
-Next, the code creates two plots to visualize the data. The first plot shows the percentage of Youtube channels by category using a pie chart, where Entertainment, Music, and People & Blogs are the top three categories. The second plot displays a scatter plot of the video views and subscribers by categories using Plotly Express, where Musics, Education, and Shows are the top three categories with the most subscribers and video views.
-
-The code also analyzes the top 10 music channels with the most video count and the top 10 education channels with the most video views. The results are displayed using a bar chart using the seaborn library.
-
-Overall, the code provides insights into the characteristics of the top subscribed Youtube channels, their categories, and their video count and views. It also shows how to perform data processing and visualization using pandas, numpy, seaborn, and plotly libraries.
 
 ## Environment Variables
 To run this project, you will need to add the following python module installation and Visual Studio Code extension
