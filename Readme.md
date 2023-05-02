@@ -64,4 +64,8 @@ To run this project, you will need to add the following python module installati
 ## Authors
 
 - [Arpitya Kumar Singh ](https://github.com/arpitya)
+- [Ashish Kumar Sahay ](https://github.com/xznoz123)
+- [Asutosh Kumar Sandal ](https://github.com/Asutoshsandal)
+- [Sthanu Pradhan](https://github.com/sthanu24)
+
 
