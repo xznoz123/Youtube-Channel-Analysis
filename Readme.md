@@ -59,7 +59,7 @@ To run this project, you will need to add the following python module installati
 * [SRS](SRS.pdf)
 
 ## Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arpitya-singh-239457215/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashish-sahay-9xznozcb/)
 
 ## Authors
 
